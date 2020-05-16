@@ -1,2 +1,3 @@
-gitUrl: https://github.com/alexvolsh/jenkins-x-platform
 version: 100.0.2228
+gitUrl: https://github.com/alexvolsh/jenkins-x-platform
+repository: "https://jenkins-x-chartmuseum.geeoz.com"
